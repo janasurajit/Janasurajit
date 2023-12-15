@@ -1,3 +1,4 @@
+![logo](https://github.com/janasurajit/Janasurajit/blob/main/630e5341f4757c001d313da0.jpg)
 <h1 align="center">Hi 👋, I'm Surajit Jana</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=64A0F7&random=false&width=500&lines=Hello+!+;I+am+Surajit+jana.;Computer+Science+%26+Engineering+student.;thank+you+for+visiting%F0%9F%99%8F." alt="Typing SVG" /></a>
