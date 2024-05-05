@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surajit Jana</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=64A0F7&random=false&width=500&lines=Hello+!+;I+am+Surajit+jana.;Computer+Science+%26+Engineering+student.;thank+you+for+visiting%F0%9F%99%8F." alt="Typing SVG" /></a>
-<img align="right"alt="codeing" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right"alt="codeing" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently studying on **Computer Science & Engineering**
 
